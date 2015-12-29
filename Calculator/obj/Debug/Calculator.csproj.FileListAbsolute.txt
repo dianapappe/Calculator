@@ -1,0 +1,16 @@
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\DicButtonCalc1.baml
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.baml
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.cs
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\App.baml
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\ResourceLib\DictionaryButtons.baml
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Diana\Documents\Brookhaven\Spring 2015\C#\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
